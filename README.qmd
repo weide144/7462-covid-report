@@ -1,5 +1,6 @@
 ---
 title: "Minnesota COVID Report"
+author: "Ben Weideman"
 format: gfm
 execute: 
   eval: true
